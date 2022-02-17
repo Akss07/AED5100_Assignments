@@ -1,4 +1,4 @@
-package com.neu.aed;
+package com.neu.aed.assignment1;
 
 import java.util.*;
 

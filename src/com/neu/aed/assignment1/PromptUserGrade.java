@@ -1,4 +1,4 @@
-package com.neu.aed;
+package com.neu.aed.assignment1;
 
 /**
  * Write a program that prompts the user’s grade. Your program should display the corresponding meaning of grade as per the following table

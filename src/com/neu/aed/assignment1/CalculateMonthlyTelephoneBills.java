@@ -1,4 +1,4 @@
-package com.neu.aed;
+package com.neu.aed.assignment1;
 
 /**
  * Write a program to calculate the monthly telephone bills as per the following rule: Minimum $ 200 for up to 100 calls.
