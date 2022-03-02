@@ -25,8 +25,5 @@ public class Main {
         Will return person greg and robin
          */
         seattlePoliceDepartment.notifyCitizens("Threats");
-
-
-
     }
 }
